@@ -1,8 +1,10 @@
-# Sobre a Criação Deste Ebook
+# 📘 Sobre a Criação Deste Ebook
 
 Este ebook foi criado como parte de um desafio do curso **Fundamentos de IA para Devs** da escola **DIO (Digital Innovation One)**. O objetivo deste desafio foi utilizar a inteligência artificial para criar conteúdo educativo de alta qualidade e relevância para desenvolvedores.
 
-## Ferramentas Utilizadas
+[LEIA AQUI](https://github.com/Bruno305Rodrigues/ebook-use-efeect/blob/main/output/ebook-reactjs-useeffect.pdf)
+
+## 🛠️ Ferramentas Utilizadas
 
 Para a elaboração deste ebook, foram utilizadas as seguintes ferramentas:
 
@@ -10,7 +12,7 @@ Para a elaboração deste ebook, foram utilizadas as seguintes ferramentas:
 - **Leonardo.ai**: Utilizado para criação de imagens e gráficos que complementam o conteúdo do ebook, tornando-o mais visual e interativo.
 - **PowerPoint**: A ferramenta da Microsoft foi utilizada para a montagem e formatação final do ebook, garantindo uma apresentação profissional e organizada.
 
-## Prompt Utilizado
+## 📝 Prompt Utilizado
 
 Aqui está o prompt utilizado para criar este ebook:
 
@@ -22,3 +24,7 @@ faça um texto para ebook, com foco no hook useEffect do React JS, listando as m
 > Deixo o texto enxuto
 > Sempre traga exemplos de código em contextos reais
 > Sempre deixe um título sugestivo por tópico
+
+
+🎉 Conclusão
+A criação deste ebook foi uma experiência enriquecedora, demonstrando como a inteligência artificial pode ser uma aliada poderosa na produção de conteúdo educacional. Esperamos que este material seja útil e inspirador para desenvolvedores que desejam aprimorar seus conhecimentos em React JS e no uso do hook useEffect.
