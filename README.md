@@ -24,6 +24,7 @@ faça um texto para ebook, com foco no hook useEffect do React JS, listando as m
 > Deixo o texto enxuto
 > Sempre traga exemplos de código em contextos reais
 > Sempre deixe um título sugestivo por tópico
+```
 
 
 🎉 Conclusão
